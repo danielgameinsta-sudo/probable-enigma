@@ -152,6 +152,8 @@ def pass_lexical(text, lex):
     text = re.sub(r"\s+([,.;:!?])", r"\1", text)
     text = re.sub(r",\s*([,.;:!?])", r"\1", text)      # an em dash became a comma,
                                                       # then the clause after it went
+    text = re.sub(r"([.!?])\s*,\s*", r"\1 ", text)    # ". , criar" depois de apagar
+                                                      # um conectivo no início da frase
     text = text.replace("...", "\x00ELL\x00")          # protect real ellipses
     text = re.sub(r"\.\s*\.+", ".", text)
     text = re.sub(r"([!?])\s*\.", r"\1", text)

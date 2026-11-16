@@ -1,67 +1,70 @@
 # voice.md
 
-Copy this to `~/.claude/instagram/voice.md` and fill it in. Every skill in the
-pack reads it. Ten minutes here is the difference between scripts you shoot and
-scripts you rewrite.
+Preencha este arquivo. Todas as skills do pacote leem ele. Dez minutos aqui são
+a diferença entre roteiros que você grava e roteiros que você reescreve.
 
-If you would rather not fill it in by hand, send Claude three of your own reels
-or captions and say "write my voice.md from these". That works better than
-guessing at the answers.
+Se preferir não preencher à mão, mande para o Claude três reels ou legendas
+suas e diga "escreve meu voice.md a partir disso". Funciona melhor do que
+chutar as respostas.
 
-This file matters more on Instagram than anywhere else, because you have to say
-the words out loud. A line you would never say is not a draft, it is a retake.
+Este arquivo importa mais no Instagram do que em qualquer outro lugar, porque
+você tem que falar as palavras em voz alta. Uma frase que você nunca diria não
+é um rascunho, é uma regravação.
 
 ---
 
-## Who I am
+## Quem eu sou
 
-- **Name:**
-- **Handle:**
-- **What I do, in one sentence:**
-- **Who I am talking to:** (be specific: "photographers charging under $2,000",
-  not "creatives")
-- **What I sell:**
+- **Nome:**
+- **@:**
+- **O que eu faço, numa frase:**
+- **Com quem eu falo:** (seja específico: "fotógrafos que cobram menos de
+  R$ 2 mil", não "criativos")
+- **O que eu vendo:**
 
-## What I sound like
+## Como eu falo
 
-- **Three of my own reels or captions that sound most like me:** (paste them)
-- **On camera I am:** (fast and loud / dry / calm / funny / deadpan)
-- **Words I actually use:**
-- **Words I would never say out loud:**
-- **Do I swear:** (yes / mild / no)
-- **Emoji in captions:** (never / one, rarely / freely)
-- **Face on camera:** (always / sometimes / faceless)
-- **Voiceover or to-camera:**
-- **Pace:** (words per minute, if you have timed yourself reading a script.
-  `beats.py --wpm` uses this. Most people are between 150 and 200.)
+- **Três reels ou legendas minhas que mais parecem comigo:** (cole aqui)
+- **Na câmera eu sou:** (rápido e animado / seco / calmo / engraçado / irônico)
+- **Palavras e gírias que eu uso de verdade:** (ex.: "pra", "tá", "mano",
+  "gente", regionalismos)
+- **Palavras que eu nunca falaria em voz alta:**
+- **Eu falo palavrão:** (sim / leve / não)
+- **Emoji nas legendas:** (nunca / um, raramente / à vontade)
+- **Rosto na câmera:** (sempre / às vezes / sem rosto)
+- **Locução ou falando para a câmera:**
+- **Velocidade:** (palavras por minuto, se você já cronometrou lendo um
+  roteiro. O `beats.py --wpm` usa isso. A maioria fica entre 140 e 190.)
 
-## My positions
+## Minhas posições
 
-Three to five things I believe that some of my audience does not. These are
-where the good reels come from.
+De três a cinco coisas em que eu acredito e parte do meu público não. É daqui
+que saem os bons reels.
 
 1.
 2.
 3.
 
-## Off limits
+## Proibido
 
-- **Topics I do not post about:**
-- **Clients, numbers or names I cannot say publicly:**
-- **Claims I am not allowed to make:** (regulated industry, employer policy, NDA)
+- **Assuntos sobre os quais eu não posto:**
+- **Clientes, números ou nomes que eu não posso dizer em público:**
+- **Afirmações que eu não posso fazer:** (área regulamentada, regra da empresa,
+  contrato de confidencialidade)
 
-## Proof I can use
+## Provas que eu posso usar
 
-Real numbers, outcomes and stories I am happy to put my name on. The skills will
-never invent one, so if this section is empty, every draft comes back with
-`{{your number}}` in it.
+Números, resultados e histórias reais em que eu coloco meu nome. As skills
+nunca vão inventar um, então se esta seção estiver vazia, todo rascunho volta
+com `{{seu número}}` no lugar.
 
 -
 -
 -
 
-## The ask
+## O pedido
 
-- **My keyword CTA, if I use one:** (one word, sayable, no spaces)
-- **What the keyword sends them:**
-- **Where my link goes:**
+- **Minha palavra-chave de CTA, se eu uso uma:** (uma palavra, fácil de falar,
+  sem espaço)
+- **O que a palavra-chave manda para a pessoa:**
+- **Para onde vai o meu link:**
